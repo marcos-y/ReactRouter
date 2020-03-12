@@ -1,19 +1,17 @@
 import React from 'react';
-import Nav from 'react-bootstrap/Nav';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+
 import {
     Link
   } from "react-router-dom";
 
-const Pag2 = () => {
+const Pag1 = () => {
 
-    
 
     return (
         <>
         
             <div>
-                Pag2
+                Pag1
             </div>
 
 
@@ -24,4 +22,4 @@ const Pag2 = () => {
     )
 }
 
-export default Pag2;
+export default Pag1;
